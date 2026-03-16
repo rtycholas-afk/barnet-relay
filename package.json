@@ -1,0 +1,12 @@
+{
+  "name": "barnet-relay",
+  "version": "1.0.0",
+  "description": "HTTP relay for Barnet Network API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
